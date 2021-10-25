@@ -1,7 +1,7 @@
 **CV**
 
 
-__**AMISHA GAWAND**__
+**AMISHA GAWAND**
 
 
 https://ibb.co/rHZrdB1
@@ -12,13 +12,25 @@ https://ibb.co/rHZrdB1
 
 
 ***skills**
+
+
 1.python
+
+
 2.java
+
+
 3.html
 
 
 
 ***qualification**
 1.10th KES Eng Med School 94%
+
+
 2.12th MSAS & Junior College 69%
+
+
 3.BE IT Pillai College of Engineering 8 CGPA
+
+
