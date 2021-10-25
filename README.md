@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+                   **CV**
+__**AMISHA JANARDHAN GAWAND**__
+gawandamish@gmail.com
 
-You can use the [editor on GitHub](https://github.com/amishagawand12/exp1cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+                  'EXPERIENCE'
+4 years of experience in IT engineering(BE) in the field of software design & development of python based web applications. I have excellent capabillity to explore ,learn and understand newer business domains and technology. I enjoy learning new things and can assimilate new ideas quickly I am a good learner, innovative, I have positive attitude and committed to my work
+**SKILLS**
+PYTHON
+JAVA
+HTML
+CSS
+MYSQL
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amishagawand12/exp1cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
